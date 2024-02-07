@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Init {
 	    public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
-	        // Inicializar inventario y usuario aquí
+	       
 
 	        int opcion;
 	        do {
