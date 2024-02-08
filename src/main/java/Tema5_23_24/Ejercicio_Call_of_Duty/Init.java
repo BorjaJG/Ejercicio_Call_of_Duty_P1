@@ -18,7 +18,7 @@ public class Init {
 	            System.out.println("4. Cambiar arma secundaria");
 	            System.out.println("5. Cambiar arma principal");
 	            System.out.println("6. Ver accesorios de un arma");
-	            System.out.println("0. Salir");
+	            System.out.println("0. Salir del programa");
 	            System.out.println("═══════════════════════════════════════");
 	            System.out.print("Seleccione una opción: ");
 	            opcion = scanner.nextInt();
