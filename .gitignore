@@ -1,0 +1,12 @@
+/.idea/*
+/target/*
+/.settings/*
+/gitattributes/*
+/.project/*
+/pom.xml
+.idea/.name
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/Tema5_23-24/Ejercicio_Call_of_Duty/pom.properties
